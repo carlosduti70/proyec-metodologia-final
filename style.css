@@ -12,7 +12,7 @@ h4{
 
 article {
     text-align: center;
-    width: 100%;
+    width: 80%;
     margin: 20px;
     background-color: lightgray;
     border-radius: 10px;
@@ -21,8 +21,8 @@ article {
 }
 
 img {
-    width: 100%;
-    height: auto;
+    width: 80%;
+    height: 90vh;
     border-radius: 10px;
     object-fit: cover;
 }
